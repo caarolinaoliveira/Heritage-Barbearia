@@ -4,7 +4,7 @@
  Foi solicitado a mim um site simples com entrega em 1 dia. Apesar de simples, ficou super elegante e eficiente. 
  Ainda irei trabalhar nele, porém, em um dia eu fiquei orgulhosa do meu trabalho. 
 
- 
+ visualizar o projeto no pages: https://caarolinaoliveira.github.io/Heritage-Barbearia/ 
 ## Funcionalidades
 
 - Apresenta informações básicas sobre a barbearia, como localização, horário de funcionamento e serviços oferecidos.
